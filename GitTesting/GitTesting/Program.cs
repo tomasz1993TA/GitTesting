@@ -11,5 +11,10 @@ namespace GitTesting
             Console.WriteLine("See you later!");
             Console.WriteLine("Where are you?");
         }
+
+        private void GetWelcomeText()
+        {
+            Console.WriteLine("Welcome warmly!");
+        }
     }
 }
