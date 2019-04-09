@@ -16,5 +16,10 @@ namespace GitTesting
         {
             Console.WriteLine("Welcome warmly!");
         }
+
+        private void GetUserData()
+        {
+            Console.WriteLine("Name");
+        }
     }
 }
