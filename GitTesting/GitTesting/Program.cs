@@ -20,6 +20,7 @@ namespace GitTesting
         private void GetUserData()
         {
             Console.WriteLine("Name");
+            Console.WriteLine("Age");
         }
     }
 }
